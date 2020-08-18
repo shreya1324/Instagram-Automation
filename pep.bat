@@ -1,1 +1,1 @@
-node "puppeteer.js" "./credentials.json" "thegoodquote"
+node "pupeteer.js" "./credentials.json" "thegoodquote"
